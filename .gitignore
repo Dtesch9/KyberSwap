@@ -13,6 +13,8 @@ src/app.bundle.css
 src/client.min.js
 src/index.html
 
+dist
+
 # Runtime data
 pids
 *.pid
